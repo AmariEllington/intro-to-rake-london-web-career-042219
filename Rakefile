@@ -6,6 +6,6 @@ end
 
 desc 'outputs hola to the terminal'
 task :hola do
-  puts "hold de Rake"
+  puts "holas de Rake!"
 end
 end
